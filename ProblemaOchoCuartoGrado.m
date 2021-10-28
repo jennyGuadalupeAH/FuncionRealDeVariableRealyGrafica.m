@@ -2,7 +2,7 @@
 % Title           : Funcion real de variable real y su representacion grafica
 % Descripcion     : Determina las siguientes variables y funciones ER, grafica , obtener dominio y rango
 % Autor           : Jennifer Guadalupe Angeles Hernandez
-% Date            : 27102021
+% Date            : 28102021
 % Version         : 1
 % Nota            : Requiere la aplicacion de Octave
 %Problema         :Ocho
