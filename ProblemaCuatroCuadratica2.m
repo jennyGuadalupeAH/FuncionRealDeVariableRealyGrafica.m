@@ -22,4 +22,4 @@ plot(x,fx)
 grid on
 ylabel('y')
 xlabel('x')
-title('raices(-6,0)(0,0), dominio xE R, rango yE[-9,+oo), minimo(-3,-9)')
+title('raices(-100,100)(0,0), dominio xE R, rango yE[-9,+oo), minimo(-3,-9)')
