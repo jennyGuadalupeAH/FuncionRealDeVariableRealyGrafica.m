@@ -5,7 +5,7 @@
 % Date            : 27102021
 % Version         : 1
 % Nota            : Requiere la aplicacion de Octave
-% Problema        : Cuatro
+% Problema        : Seis
 
 clear
 pkg load symbolic
@@ -14,11 +14,11 @@ syms x
 %division de funciones
 'h(t)=t-1/t-2';
 % Dominio de las funciones
-t=linspace(-100,100);
+x=linspace(-100,100);
 % Regla de correspondencia (funcion)
-y=(t-1)./(t-2)
+fx=(t-1)./(t-2)
 % Plotear Funcion 
-plot(t,y)
+plot(fx,x)
 grid on
 ylabel('y')
 xlabel('x')
