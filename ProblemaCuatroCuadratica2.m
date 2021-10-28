@@ -5,7 +5,7 @@
 % Date            : 27102021
 % Version         : 1
 % Nota            : Requiere la aplicacion de Octave
-% Problema        : Cinco
+% Problema        : Cuatro
 
 clear
 pkg load symbolic
